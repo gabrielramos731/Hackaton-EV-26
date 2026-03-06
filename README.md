@@ -1,3 +1,5 @@
+### Declaramos que foi utilizado inteligência artificial como apoio técnico para dúvidas pontuais e codificação
+
 # Predição de Casos SRAG — Montes Claros / MG
 
 > Modelo SARIMAX para previsão semanal de Síndrome Respiratória Aguda Grave (SRAG) não-COVID usando variáveis meteorológicas do INMET.
